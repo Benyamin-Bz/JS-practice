@@ -1,0 +1,5 @@
+alert("your weight white KG-->Ex:80")
+let kilogeram = prompt("your weight")
+alert("your hight white CM -->Ex:1.80 ")
+let hight = prompt("your hight")
+alert(kilogeram/(hight**2))
